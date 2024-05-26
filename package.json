@@ -22,7 +22,7 @@
     "tslib": "^2.3.0",
     "yargs-parser": "^21.1.1"
   },
-  "packageManager": "yarn@1.22.19",
+  "packageManager": "pnpm@8.15.7",
   "devDependencies": {
     "@nx/cypress": "19.0.4",
     "@nx/detox": "19.0.4",
